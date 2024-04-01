@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "ES2019",
+      "module": "es2015",
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "strict": true,
+      "noImplicitAny": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "allowSyntheticDefaultImports": true
+    },
+    "exclude": ["node_modules", "dist", "actions-runner"]
+  }
+  
